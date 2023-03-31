@@ -1,5 +1,4 @@
-//Alexanne Barrette
-//Pascal Huynh
+
 //Web and Effects, section 00001
 //Feed the Creature
 //https://openprocessing.org/sketch/1870088 
